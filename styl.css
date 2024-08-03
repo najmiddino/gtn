@@ -1,0 +1,19 @@
+.row {
+    margin-top: 50px;
+    padding-top: 20px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    background-color: orange;
+}
+ button{
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+}
